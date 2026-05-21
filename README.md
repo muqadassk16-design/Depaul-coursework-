@@ -1,5 +1,6 @@
-# glowing-octo-happiness
+# Depaul-coursework-
 
+CS student at DePaul | Interested in software engineering | Python, JavaScript, C++ 
 This repository contains Python programming assignments completed for my computer science coursework at DePaul University so far. 
 Each assignment focuses on fundamental programming concepts including loops, conditionals, functions, and file handling.
 
